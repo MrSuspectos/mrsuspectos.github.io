@@ -1,5 +1,7 @@
 body{
     background-image: url('https://s1.1zoom.me/big3/364/Fireworks_Black_background_537060_4840x3000.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     color: aqua;
 }
