@@ -1,0 +1,35 @@
+body{
+    background-image: url('https://data.1freewallpapers.com/download/red-texture-background-4k.jpg');
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-left: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aqua;
+}
+div{
+    text-align: justify;
+    width: 1250px;
+}
+figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    max-width: 850px;
+    padding: 5px;
+    margin: auto;
+}
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+img{
+    height: 500px;
+    width: 850px;
+}
+a{
+    color: chartreuse;
+}
